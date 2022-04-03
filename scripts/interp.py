@@ -54,4 +54,4 @@ def interpolate(tac_dir, method = 'linear'):
     return interpolations
 
         
-interpolate('../data/clean_tac')
+interpolate('../clean_tac')
